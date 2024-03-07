@@ -26,7 +26,7 @@ export default function Navbar() {
           </Link>
         </li>
         <li>
-          <Link  className=" font-bold font-serif" to="skills" smooth={true} duration={500}>
+          <Link  className=" font-bold font-serif " to="skills" smooth={true} duration={500}>
             Skills
           </Link>
         </li>

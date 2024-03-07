@@ -2,8 +2,9 @@ import React from 'react'
 import Workimg1 from '../assets/project1.png'
 import Workimg2 from '../assets/project2.png'
 import Workimg3 from '../assets/project3.png'
-import Workimg4 from'../assets/project4.png'
-
+import E_commerce_prj1 from '../assets/E-commers.png'
+import E_commerce_prj2 from '../assets/E-commerce2.png'
+import E_commerce_prj3 from '../assets/E-commerce3.png'
 export default function 
 () {
   return (
@@ -63,7 +64,7 @@ export default function
               </div>
             </div>
           </div>
-          <div style={{backgroundImage:`url(${Workimg4})`,}} className='shadow-lg shadow-[#040c16] group container rounded-md  flex justify-center items-center mx-auto content-div'>
+          <div style={{backgroundImage:`url(${E_commerce_prj1})`,}} className='shadow-lg shadow-[#040c16] group container rounded-md  flex justify-center items-center mx-auto content-div '>
 
 
             {/* hover Effects */}
@@ -73,13 +74,13 @@ export default function
                 <a href='/'>
                   <button className='text-center around-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                 </a>
-                <a href='https://github.com/husseindawood46/Restaurant'>
+                <a href='https://github.com/husseindawood46/E-commerce'>
                   <button className='text-center around-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                 </a>
               </div>
             </div>
           </div>
-          <div style={{backgroundImage:`url(${Workimg1})`,}} className='shadow-lg shadow-[#040c16] group container rounded-md  flex justify-center items-center mx-auto content-div'>
+          <div style={{backgroundImage:`url(${E_commerce_prj2})`,}} className='shadow-lg shadow-[#040c16] group container rounded-md  flex justify-center items-center mx-auto content-div'>
 
 
             {/* hover Effects */}
@@ -89,13 +90,13 @@ export default function
                 <a href='/'>
                   <button className='text-center around-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                 </a>
-                <a href='https://github.com/husseindawood46/Restaurant'>
+                <a href='https://github.com/husseindawood46/E-commerce'>
                   <button className='text-center around-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                 </a>
               </div>
             </div>
           </div>
-          <div style={{backgroundImage:`url(${Workimg2})`, }} className='shadow-lg shadow-[#040c16] group container rounded-md  flex justify-center items-center mx-auto content-div'>
+          <div style={{backgroundImage:`url(${E_commerce_prj3})`, }} className='shadow-lg shadow-[#040c16] group container rounded-md  flex justify-center items-center mx-auto content-div'>
 
 
             {/* hover Effects */}
@@ -105,7 +106,7 @@ export default function
                 <a href='/'>
                   <button className='text-center around-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                 </a>
-                <a href='https://github.com/husseindawood46/Restaurant'>
+                <a href='https://github.com/husseindawood46/E-commerce'>
                   <button className='text-center around-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                 </a>
               </div>
